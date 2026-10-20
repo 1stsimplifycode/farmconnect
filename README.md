@@ -1,3 +1,7 @@
+<div align="center"><img src="https://raw.githubusercontent.com/1stsimplifycode/1stsimplifycode/main/assets/universal-project-3d.svg" width="100%" alt="Animated isometric engineering project" /></div>
+
+[← Portfolio](https://github.com/1stsimplifycode) · [Domains](https://github.com/1stsimplifycode/1stsimplifycode/blob/main/docs/PROJECT_DIRECTORY.md)
+
 # CropConnect
 
 CropConnect is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, CropConnect offers a robust set of features for both sellers and consumers in the agricultural marketplace.
